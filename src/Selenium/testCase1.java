@@ -6,6 +6,7 @@ public class testCase1 {
 		System.out.println("hello");
 		System.out.println("update2");
 		System.out.println("update3");
+		System.out.println("update4");
 	}
 
 }
